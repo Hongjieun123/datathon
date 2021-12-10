@@ -1,7 +1,7 @@
 # H.D.A.I 2021 
 ## 주제 2. 심전도 데이터셋을 이용한 부정맥 진단 AI 모델
 ### Development status
-	GPU : Quadro RTX 6000 (2개)
+	GPU Quadro RTX 6000 (2개)
 	tensorflow 2.3.1
 	python 3.6.9
 ### Dependencies
