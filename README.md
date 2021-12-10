@@ -14,6 +14,8 @@
 	6. xmldict
 	7. joblib
 	8. base64
+	9. os
+	
 	
 	
 ### Usage
