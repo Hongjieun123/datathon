@@ -20,6 +20,7 @@
 
 	4_Evaluation.ipynb 이용하여 평가 
 	※ Test set 폴더 구성이 아래와 같이 생긴 것을 가정함. 
+	
 	./data/test
 	
 	./data/test/arrhythmia
