@@ -11,6 +11,10 @@
 	3. matplotlib
 	4. sklearn
 	5. tensorflow
+	6. xmldict
+	7. joblib
+	8. base64
+	
 	
 ### Usage
 1. 전체 code를 아래 순서대로 실행
