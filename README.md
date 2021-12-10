@@ -19,7 +19,7 @@
 	
 	
 ### Usage
-1. 전체 code를 아래 순서대로 실행
+1. 전체 code를 순서대로 실행
 2. 참가자가 전달한 폴더 경로를 raw_path 변수로 설정
 3. test dataset이 저장된 폴더 경로를 base_dir 변수로 설정
 4. 최종 ROC, AUC 확인
