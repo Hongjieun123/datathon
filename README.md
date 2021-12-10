@@ -17,9 +17,5 @@
 	(1. 에서 저장한 validation 데이터와 3.에서 학습한 model을 load하여 , model의 성능 평가)
 	
 ### Results on our model
-| First Header | Second Header | Third Header | 
-| :------------ | :-----------: | -------------------: | 
-| First row | Data | Very long data entry | 
-| Second row | **Cell** | *Cell* | 
-| Third row | Cell that spans across two columns ||
-[Table caption, works as a reference][section-mmd-tables-table1]
+Our model AUC = 0.9960
+
