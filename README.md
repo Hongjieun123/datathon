@@ -22,5 +22,5 @@
 	5. model file (1. best_model.h5 (model+weight file) 2. best_weights.h5 (weights values) 3. best_model.csv (model accuracy, loss values))
 	
 ### Results on our model (AUC & ROC Curve)
-Our model AUC = 0.9960
+Our model AUC = 0.9959
 ![savefig_default (1)](https://user-images.githubusercontent.com/62556038/145504513-97a8dbaa-127b-4f64-99c4-3d5b39a82ecd.png)
